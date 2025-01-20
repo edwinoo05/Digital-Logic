@@ -20,3 +20,5 @@ Module 7 - Latches and Flip-Flops
 Module 8 - Counters
 
 Module 9 - Shift Register
+
+*** More information on [Click here 🌟🌟 ](https://edwinoo05.github.io/tis.html) ***
